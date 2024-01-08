@@ -1,7 +1,6 @@
-import time #upload to github when done reviewing and testing
+import time
 import lzma
 import os
-import bcrypt
 from cryptography.fernet import Fernet
 
 #Uncomment if you need to make a new key file
