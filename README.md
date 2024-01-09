@@ -31,10 +31,11 @@ Requirements:
   Python 3.x
   tqdm library (for progress bar visualization)
 -----------------------------------------------
-Usage Tips:
-  Ensure that you provide the exact file path, including the file extension, to avoid errors.
-  Be cautious while compressing large files, as the process may take some time depending on the file size and system resources.
-  Feel free to contribute, report issues, or suggest improvements.
+## Usage Tips
+- Ensure that you provide the exact file path, including the file extension, to avoid errors.
+- Be cautious while compressing large files, as the process may take some time depending on the file size and system resources.
+
+Feel free to [contribute](#), [report issues](#), or [suggest improvements](#).
 
 
 How it works:
