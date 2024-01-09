@@ -50,9 +50,27 @@ When compressed the file size comes out to
 Now for the decryption process we use the script and choose the action 'd':
 
 https://github.com/galacticoder/comp_enc/assets/155845471/211f776e-dee2-45af-ad60-5bdbf4a1018a
-The video was not altered during the decryption process it is that fast during decryption and the content of the file returns as shown in the video
+## Decryption Speed and File Integrity
 
-That is how this script works thank you for using it.
+The decryption process carried out by this script is remarkably fast, ensuring that the video content remains unaltered throughout the entire procedure. The speed at which decryption occurs is visually demonstrated in the accompanying video.
+
+**Key Features:**
+- **Fast Decryption:**
+  Witness the swift and efficient decryption process in action through the provided video. The script ensures that the content of the file is promptly restored without any alterations.
+
+- **File Integrity:**
+  During decryption, the script maintains the integrity of the original video file. The decrypted content is an accurate representation of the source, as showcased in the video demonstration.
+
+## Understanding the Script
+
+This script operates seamlessly to deliver an effective decryption experience. The decrypted video showcased in the accompanying demonstration accurately reflects the original content of the file, highlighting the reliability and efficiency of the script.
+
+## Thank You for Using This Script
+
+I appreciate your trust in utilizing this script for your decryption needs. If you have any feedback, encounter issues, or wish to suggest improvements, please feel free again to [contribute](#), [report issues](#), or [suggest improvements](#). Your input is invaluable, and it helps me enhance the functionality and performance of this script for a better user experience.
+
+Enjoy using the script, and thank you for choosing my decryption solution!
+
 
 
 
