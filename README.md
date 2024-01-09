@@ -2,19 +2,30 @@
 # <span style="font-size:1.5em;">File Compression and Decompression Tool</span>
 This Python script provides a simple and efficient tool for compressing and decompressing files using the LZMA (Lempel-Ziv-Markov chain-Algorithm) compression algorithm. LZMA is known for its high compression ratio and is widely used for archive formats.
 
-Features:
-Compression: Easily compress files using the LZMA algorithm, reducing their size while preserving data integrity.
-Decompression: Decompress LZMA-compressed files, restoring them to their original state.
-How to Use
-  Run the script.
-  Choose the action:
-  Enter 'c' to compress a file.
-  Enter 'd' to decompress a file.
-  Follow the prompts based on your chosen action:
-  For compression, provide the exact path to the file you want to compress.
-  For decompression, enter the original file name (including the file extension) and the exact path to the compressed file.
-  Monitor the progress with a progress bar during both compression and decompression processes.
-  When the script completes sucessfully, the original file is replaced with the compressed file in the case of compression, and the compressed file is replaced with the decompressed file in  the case of decompression.
+## Features
+- **Compression:**
+  Easily compress files using the LZMA algorithm, reducing their size while preserving data integrity.
+
+- **Decompression:**
+  Decompress LZMA-compressed files, restoring them to their original state.
+
+## How to Use
+1. **Run the script.**
+2. **Choose the action:**
+   - Enter 'c' to compress a file.
+   - Enter 'd' to decompress a file.
+
+3. **Follow the prompts based on your chosen action:**
+   - For compression, provide the exact path to the file you want to compress.
+   - For decompression, enter the original file name (including the file extension) and the exact path to the compressed file.
+
+4. **Monitor the progress:**
+   - A progress bar will display during both compression and decompression processes.
+
+5. **Upon successful completion:**
+   - For compression, the original file is replaced with the compressed file.
+   - For decompression, the compressed file is replaced with the decompressed file.
+
 -----------------------------------------------
 Requirements:
   Python 3.x
