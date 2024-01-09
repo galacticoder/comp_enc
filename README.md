@@ -1,5 +1,5 @@
 
-**File Compression and Decompression Tool**
+<font size="4">**File Compression and Decompression Tool**</font>
 This Python script provides a simple and efficient tool for compressing and decompressing files using the LZMA (Lempel-Ziv-Markov chain-Algorithm) compression algorithm. LZMA is known for its high compression ratio and is widely used for archive formats.
 
 Features
