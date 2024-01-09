@@ -56,10 +56,10 @@ The decryption process carried out by this script is remarkably fast, ensuring t
 
 **Key Features:**
 - **Fast Decryption:**
-  Witness the swift and efficient decryption process in action through the provided video. The script ensures that the content of the file is promptly restored without any alterations.
+  The fast and efficient decryption process in action through the video is unaltered. The script ensures that the content of the file is promptly restored without any alterations.
 
 - **File Integrity:**
-  During decryption, the script maintains the integrity of the original video file. The decrypted content is an accurate representation of the source, as showcased in the video demonstration.
+  During decryption, the script maintains the integrity of the original file. The decrypted content is an accurate representation of the source, as showcased in the video demonstration.
 
 ## Understanding the Script
 
