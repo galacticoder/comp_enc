@@ -2,6 +2,21 @@
 # <span style="font-size:1.5em;">File Compression and Decompression Tool</span>
 This Python script provides a simple and efficient tool for compressing and decompressing files using the LZMA (Lempel-Ziv-Markov chain-Algorithm) compression algorithm. LZMA is known for its high compression ratio and is widely used for archive formats.
 
+## New Features: Directory Compression and Decompression
+Now supporting the compression and decompression of entire directories. Specify a directory, and the script will compress or decompress all files within it.
+
+### How to Use Directory Compression
+1. Run the script.
+2. Choose the action 'c' for compression.
+3. Enter the path to the directory you want to compress.
+
+### How to Use Directory Decompression
+1. Run the script.
+2. Choose the action 'd' for decompression.
+3. Enter the path to the directory with compressed files.
+
+Note: The script will compress or decompress all files within the specified directory.
+
 ## Features
 - **Compression:**
   Easily compress files using the LZMA algorithm, reducing their size while preserving data integrity.
