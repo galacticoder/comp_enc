@@ -82,7 +82,7 @@ This script operates seamlessly to deliver an effective decryption experience. T
 
 ## Thank You for Using This Script
 
-I appreciate your trust in utilizing this script for your decryption needs. If you have any feedback, encounter issues, or wish to suggest improvements, please feel free again to [contribute](#), [report issues](#), or [suggest improvements](#). Your input is invaluable, and it helps me enhance the functionality and performance of this script for a better user experience.
+I appreciate your trust in utilizing this script for your decryption needs. If you have any feedback, encounter issues, or wish to suggest improvements, please feel free again to [contribute](#), [report issues](https://github.com/galacticoder/comp_enc/issues/new), or [suggest improvements](#). Your input is invaluable, and it helps me enhance the functionality and performance of this script for a better user experience.
 
 Enjoy using the script, and thank you for choosing my decryption solution!
 
